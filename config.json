@@ -1,0 +1,14 @@
+{
+  "ownerNumber": ["60102810046@s.whatsapp.net"],
+  "ownerName": ["lynx.man"],
+  "botName": "lynx - BOT",
+  "sessionName": "session",
+  "pathimg": "./pp.jpg",
+  "gcwa": "-",
+  "gamewaktu": 50,
+  "limitCount": 25,
+  "gcount": {
+	"prem": 100000000000,
+	"user": 20
+  }
+}
